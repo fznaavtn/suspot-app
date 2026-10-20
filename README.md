@@ -17,7 +17,7 @@ Core Features
 
 Tech Stack
 1. Frontend Framework: React.js (Bootstrapped with Vite)
-2. Styling: Tailwind CSS (Includes Dark Mode & Light Mode)
+2. Styling: Tailwind CSS
 3. Mapping & Geolocation: Leaflet, React-Leaflet, OpenStreetMap API
 4. Artificial Intelligence: Google Gemini API (Flash Model)
 5. Icons: Lucide React
