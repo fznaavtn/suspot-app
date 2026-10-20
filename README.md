@@ -24,6 +24,7 @@ Tech Stack
 6. Deployment: Netlify
 
 Running the Project Locally
+
 If you want to run this project on your local machine, follow these steps:
 
 1. Clone the repository:
