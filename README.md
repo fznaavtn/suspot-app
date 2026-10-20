@@ -19,7 +19,7 @@ Tech Stack
 1. Frontend Framework: React.js (Bootstrapped with Vite)
 2. Styling: Tailwind CSS
 3. Mapping & Geolocation: Leaflet, React-Leaflet, OpenStreetMap API
-4. Artificial Intelligence: Google Gemini API (Flash Model)
+4. Artificial Intelligence: Google Gemini API (3.8-Flash Model)
 5. Icons: Lucide React
 6. Deployment: Netlify
 
